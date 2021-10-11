@@ -1,16 +1,19 @@
-### Hi there 👋
+- 🔭 I’m currently working on , a 
+- 🌱 I’m currently learning React
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: If I wasn't a developer I'd like to be a mycologist
 
-<!--
-**dapoch/dapoch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### My github stats:
 
-Here are some ideas to get you started:
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dapoch&count_private=true&show_icons=true&theme=radical
+)](https://github.com/dapoch/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me:
+
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"; />][linkedin]
+[<img align="left" alt="codeSTACKr | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"; />][mail]
+
+
+
+[linkedin]: https://www.linkedin.com/in/pablo-scasso-b15397150/
+[mail]: mailto:pmscasso@gmail.com
