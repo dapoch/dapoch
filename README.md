@@ -1,7 +1,7 @@
-- 🔭 I’m currently working on , a 
+- 🔭 I’m currently working on FreeCodeCamp Front End Libraries Projects
 - 🌱 I’m currently learning React
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: If I wasn't a developer I'd like to be a mycologist
+- ⚡ Fun fact: 
 
 ### My github stats:
 
